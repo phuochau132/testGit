@@ -29,3 +29,5 @@ while (True):
 vid.release()
 # Destroy all the windows
 cv2.destroyAllWindows()
+"asdadasdhaudeptrai"
+print("anh iu em vãi cả lo z")
